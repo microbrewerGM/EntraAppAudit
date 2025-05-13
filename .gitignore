@@ -1,0 +1,58 @@
+# PowerShell specific
+*.pssproj
+*.psm1
+*.psd1
+*.ps1.config
+*.ps1xml
+*.cdxml
+*.xaml
+*.dll
+*.pdb
+
+# Generated files
+EntraAuditReports/
+*.log
+*.txt
+*.csv
+*.json
+*.xml
+*.html
+*.xlsx
+*.pdf
+
+# Credentials and secrets
+*.pfx
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.publishsettings
+*credentials*
+*password*
+*token*
+*secret*
+*api_key*
+
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
